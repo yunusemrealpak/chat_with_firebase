@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136430869259",
+    "project_id": "applogist-chat",
+    "storage_bucket": "applogist-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136430869259:android:269decf2f19f22c7a5a00e",
+        "android_client_info": {
+          "package_name": "com.example.chat_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136430869259-eiq0f9c156fbnr1crgcdrkrs2d5k9piv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2OznhzNSLi3qHwKVCNa7DLQq_YiKedg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136430869259-eiq0f9c156fbnr1crgcdrkrs2d5k9piv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
